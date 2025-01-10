@@ -1,2 +1,3 @@
-Here are some Slides issued by NVIDIA which i studied during my course.
-Also my Certification is attached with it, officillyy issued ny NVIDIA.
+Here are some Slides issued by NVIDIA that I studied during my course.
+Also, my certification, officially issued by NVIDIA, is attached.
+Also, my Offical Documentation is  attached here
